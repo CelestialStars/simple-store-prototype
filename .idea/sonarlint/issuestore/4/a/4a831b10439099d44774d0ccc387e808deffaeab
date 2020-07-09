@@ -1,0 +1,15 @@
+
+P
+java:S1128".Remove this unused import 'java.util.Scanner'.(ÒÜÅ¸úÿÿÿÿ8Â¥¡­’.
+S
+java:S1854"6Remove this useless assignment to local variable "ma".(Ü‹ó8Â¥¡­’.
+Z	java:S106+"9Replace this use of System.out or System.err by a logger.(…§ªûøÿÿÿÿ8Â¥¡­’.
+Z	java:S106."9Replace this use of System.out or System.err by a logger.(‰Ôÿëøÿÿÿÿ8Â¥¡­’.
+Z	java:S106:"9Replace this use of System.out or System.err by a logger.(íÑöîûÿÿÿÿ8Â¥¡­’.
+U	java:S106;"9Replace this use of System.out or System.err by a logger.(ÏõîŒ8Â¥¡­’.
+Z	java:S106<"9Replace this use of System.out or System.err by a logger.(íÑöîûÿÿÿÿ8Â¥¡­’.
+D
+java:S1481"'Remove this unused "ma" local variable.(Ü‹ó8Â¥¡­’.
+W	java:S1251"<This block of commented-out lines of code should be removed.(Ë«Î8Â¥¡­’.
+H
+java:S11449"+Remove this unused private "welcom" method.(î¹ÛË8Â¥¡­’.

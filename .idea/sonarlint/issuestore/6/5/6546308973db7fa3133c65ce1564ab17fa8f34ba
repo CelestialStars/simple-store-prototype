@@ -1,0 +1,15 @@
+
+f
+java:S1301$"KReplace this "switch" statement by "if" statements to increase readability.(›æ·Ëýÿÿÿÿ
+V	java:S107"AConstructor has 9 parameters, which is greater than 7 authorized.(˜íË­
+m	java:S135*"YReduce the total number of break and continue statements in this loop to use at most one.(ñ˜²b
+F
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ
+S	java:S106!"9Replace this use of System.out or System.err by a logger.(°‰ÉŠøÿÿÿÿ
+a	java:S128%"LEnd this switch case with an unconditional break, return or throw statement.(»è˜Ô
+S	java:S106&"9Replace this use of System.out or System.err by a logger.(‘ºÄ‡þÿÿÿÿ
+M	java:S106,"9Replace this use of System.out or System.err by a logger.(èžž:
+N	java:S106."9Replace this use of System.out or System.err by a logger.(ýÒ›¢
+K
+java:S17514"5Remove this "break" statement or make it conditional.(›ûä·
+S	java:S1067"9Replace this use of System.out or System.err by a logger.(ñ™ûÁýÿÿÿÿ

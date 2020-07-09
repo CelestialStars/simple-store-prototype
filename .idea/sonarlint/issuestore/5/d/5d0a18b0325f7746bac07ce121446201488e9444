@@ -1,0 +1,13 @@
+
+[	java:S107"AConstructor has 9 parameters, which is greater than 7 authorized.(•ÀØðþÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(—®ÍÙýÿÿÿÿ
+F
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ
+N	java:S106,"9Replace this use of System.out or System.err by a logger.(ýÒ›¢
+N	java:S1066"9Replace this use of System.out or System.err by a logger.(Œ›èÿ
+S	java:S1061"9Replace this use of System.out or System.err by a logger.(ˆùæ±ùÿÿÿÿ
+f
+java:S1301%"KReplace this "switch" statement by "if" statements to increase readability.(›æ·Ëýÿÿÿÿ
+N	java:S106""9Replace this use of System.out or System.err by a logger.(ñ¿©³
+S	java:S106/"9Replace this use of System.out or System.err by a logger.(—Ûùïùÿÿÿÿ
+M	java:S106*"9Replace this use of System.out or System.err by a logger.(èžž:
